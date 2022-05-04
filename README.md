@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chiamakafaith
+- 👀 I’m interested in Html,css,javascript and python
+- 🌱 I’m currently learning html and css
+- 💞️ I’m looking to collaborate on html projects
+- 📫 reach me via email chiamakaonyekwere20@gmail.com
